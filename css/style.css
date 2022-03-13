@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* to model image */
+/* .slider-image img {
+    width: 100%;
+} */
+
+/* to illustration image */
+.slider-image img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+
